@@ -5,7 +5,7 @@ export default function Collaborate() {
       <p className="text-muted-foreground max-w-xl mb-4">
         Unlock the potential of your product. Let&apos;s collaborate to create a user-centered solution that not only meets your goals but excels in performance.
       </p>
-      <button className="bg-black text-white px-5 py-3 rounded">Let's Talk</button>
+      <button className="bg-black text-white px-5 py-3 rounded">Let&apos;s Talk</button>
     </section>
   )
 }
