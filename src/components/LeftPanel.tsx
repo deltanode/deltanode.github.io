@@ -22,7 +22,7 @@ export default function LeftPanel() {
       <div>
         {/* <a href="mailto:yogesh7132@example.com" className="text-blue-600 underline"> */}
         <a href="mailto:yogesh7132@gmail.com" >
-            <p className="text-lg font-semibold">Let's Talk</p>
+            <p className="text-lg font-semibold">Let&apos;s Talk</p>
         </a>
       </div>
     </div>

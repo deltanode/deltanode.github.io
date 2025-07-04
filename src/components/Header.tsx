@@ -1,6 +1,5 @@
 'use client'
 import { Github, Linkedin, Mail, Twitter, Code2 } from 'lucide-react'
-import Link from 'next/link'
 
 export default function Header() {
   return (

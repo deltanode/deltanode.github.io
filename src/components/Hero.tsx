@@ -7,7 +7,7 @@ export default function Hero() {
       </p>
 
       <div className="flex space-x-4">
-        <button className="bg-black text-white px-4 py-2 rounded">Let's Talk</button>
+        <button className="bg-black text-white px-4 py-2 rounded">Let&apos;s Talk</button>
         <button className="border px-4 py-2 rounded">My Work →</button>
       </div>
 
